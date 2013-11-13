@@ -1,0 +1,23 @@
+{
+  "name": "fire-stripe",
+  "version": "0.0.0",
+  "description": "Fire stripe allows you to accept payments from a client side app through stripe.  Fire-stripe is a tiny npm module that watches firebase for new tokens and then creates charges through stripe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gintellect/fire-stripe.git"
+  },
+  "keywords": [
+    "firebase",
+    "stripe",
+    "payment"
+  ],
+  "author": "David Bochenski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gintellect/fire-stripe/issues"
+  }
+}
